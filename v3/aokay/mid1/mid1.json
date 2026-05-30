@@ -11,7 +11,11 @@
           ["Bottom Row", "ALL", "Double Space", "Single Space", "Triple Space"]
 ],
         "keymap": [
-  [
+            [
+                {"a":7},"e0","e1"
+            ],
+            [
+                {"a":4},
     "0,0",
     "0,1",
     "0,2",
