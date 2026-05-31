@@ -8,8 +8,8 @@
     },
     "layouts": {
         "labels": [
-          ["Bottom Row", "ALL", "Double Space", "Single Space", "Triple Space"]
-],
+            ["Bottom Row", "ALL", "2.75u 2.25u", "7u", "2.25u 1u 2.75u"]
+            ],
         "keymap": [
             [
                 {"a":7},"e0","e1"
