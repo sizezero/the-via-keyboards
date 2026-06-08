@@ -1,7 +1,7 @@
 {
   "name": "A.Okay! MID.1",
   "vendorId": "0x414F",
-  "productId": "0x1001",
+  "productId": "0x1002",
   "matrix": {
     "rows": 4,
     "cols": 12
