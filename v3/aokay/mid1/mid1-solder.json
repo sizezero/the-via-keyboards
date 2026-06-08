@@ -8,11 +8,7 @@
   },
   "layouts": {
     "labels": [
-      [
-        "Wolfjaw",
-        "No",
-        "Yes"
-      ]
+        "Wolfjaw"
     ],
     "keymap": [
       [
